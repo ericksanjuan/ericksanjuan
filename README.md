@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericksanjuan
-- 👀 I’m interested in Data Sciene and Data analytics
-- 🌱 I’m currently learning Python, R, SQL, Ruby
+- 👀 I’m interested in Web Devolpment and FullStack
+- 🌱 I’m currently learning Java, JAvascript, React, Spring
 - 💞️ I’m looking to collaborate on data set projects that teach valuable skills 
 - 📫 How to reach me ...
 
